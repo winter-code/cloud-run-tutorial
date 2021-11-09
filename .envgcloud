@@ -1,0 +1,1 @@
+DEBUG="True" secrets create application_settings --data-file .env
